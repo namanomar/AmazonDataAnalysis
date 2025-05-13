@@ -5,7 +5,6 @@ This project performs an end-to-end web scraping and data analysis of **sponsore
 ---
 
 ## ✨ Features
-
 ### 1. 🕸️ Data Scraping
 
 Scrape product information of sponsored listings from Amazon's soft toys category using BeautifulSoup.
